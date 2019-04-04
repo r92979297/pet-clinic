@@ -49,7 +49,4 @@
             </plugin>
         </plugins>
     </build>
-    <scm>
-        <developerConnection>scm:git:git@github.com:r92979297/pet-clinic.git</developerConnection>
-    </scm>
 </project>
